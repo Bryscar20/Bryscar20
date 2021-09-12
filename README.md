@@ -9,8 +9,8 @@
 --My mouth = singing song
 
 --I Am Very Busy Person
-- 👀 I’m interested in learning and exploring the web
-- 🌱 I’m currently learning how to navigate the web
+- 🌱 I’m interested in learning and exploring the web
+- 👀 I’m currently learning how to navigate the web
 - 💞️ I’m looking to collaborate on intriguing perspectives 
 - 📫 How to reach me ... JCFM*
 
